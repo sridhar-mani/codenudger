@@ -1,5 +1,5 @@
 {
-  "name": "codenudge",
+  "name": "codenudger",
   "displayName": "CodeNuger",
   "description": "A VSCode extension that scans source code for reminder annotations and alerts you when it’s time to update your code.",
   "version": "0.0.1",
