@@ -3,7 +3,7 @@
   "displayName": "CodeNuger",
   "description": "A VSCode extension that scans source code for reminder annotations and alerts you when it’s time to update your code.",
   "version": "0.0.1",
-  "main": "./src/web/extension.ts",
+  "main": "./dist/web/extension.ts",
   "engines": {
     "vscode": "^1.97.0"
   },
